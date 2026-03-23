@@ -1,4 +1,4 @@
-# WebUI X
+6bdf208d38aefd34f8a0708c6207072775932da4 WebUI X
 
 
 ![GitHub Release](https://img.shields.io/github/v/release/MMRLApp/WebUI-X-Portable?label=Latest%20Release)
